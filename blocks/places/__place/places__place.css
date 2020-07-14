@@ -1,0 +1,13 @@
+.places__place {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: fit-content(460px) 1fr;
+  grid-template-rows: min-content min-content;
+  grid-gap: 48px 40px;
+  grid-template-areas:
+    "title website"
+    "image text";
+  grid-auto-flow: dense;
+}

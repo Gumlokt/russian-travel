@@ -1,0 +1,10 @@
+.places__text {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  grid-area: text;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: min-content;
+  grid-gap: 24px;
+}

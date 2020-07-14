@@ -1,0 +1,11 @@
+.places {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 92px 148px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: min-content;
+  grid-gap: 80px;
+  justify-content: center;
+  align-content: space-between;
+}
