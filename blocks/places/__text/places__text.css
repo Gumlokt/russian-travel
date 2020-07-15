@@ -8,3 +8,9 @@
   grid-template-rows: min-content;
   grid-gap: 24px;
 }
+
+@media screen and (max-width: 768px) {
+  .places__text {
+    margin: 0 16px;
+  }
+}
