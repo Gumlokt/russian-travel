@@ -3,9 +3,10 @@
   font-size: 16px;
   line-height: 18px;
   color: #fff;
-  transition: color .4s linear;
+  opacity: 1;
+  transition: opacity .4s linear;
 }
 
 .footer__link:hover {
-  color: salmon;
+  opacity: .8;
 }
