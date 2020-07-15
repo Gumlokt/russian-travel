@@ -8,3 +8,11 @@
   grid-template-rows: min-content;
   grid-gap: 18px;
 }
+
+@media screen and (max-width: 768px) {
+  .footer__nav-items {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(5, min-content);
+    grid-gap: 32px;
+  }
+}

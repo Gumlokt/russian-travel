@@ -1,6 +1,9 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/Inter/inter.css);
 
+/* Body */
+@import url(../blocks/body/body.css);
+
 /* Root */
 @import url(../blocks/root/root.css);
 
