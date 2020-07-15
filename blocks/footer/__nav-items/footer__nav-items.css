@@ -1,0 +1,10 @@
+.footer__nav-items {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(5, minmax(min-content, max-content));
+  grid-template-rows: min-content;
+  grid-gap: 18px;
+}
