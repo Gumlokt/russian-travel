@@ -1,7 +1,8 @@
 .lead {
   box-sizing: border-box;
   margin: 0;
-  padding: 0 148px 92px;
+  /* padding: 0 148px 92px; */
+  padding: 0 148px 96px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -15,7 +16,8 @@
 
 @media screen and (max-width: 1024px) {
   .lead {
-    padding: 0 0 88px;
+    /* padding: 0 0 88px; */
+    padding: 0 48px 97px;
   }
 }
 

@@ -5,7 +5,8 @@
   display: grid;
   grid-template-columns: fit-content(460px) 1fr;
   grid-template-rows: min-content min-content;
-  grid-gap: 48px 40px;
+  /* grid-gap: 48px 40px; */
+  grid-gap: 42px 40px;
   grid-template-areas:
     "title website"
     "image text";
