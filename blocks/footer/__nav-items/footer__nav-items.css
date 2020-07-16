@@ -6,7 +6,6 @@
   display: grid;
   grid-template-columns: repeat(5, minmax(min-content, max-content));
   grid-template-rows: min-content;
-  /* grid-gap: 18px; */
   grid-gap: 19px;
 }
 
