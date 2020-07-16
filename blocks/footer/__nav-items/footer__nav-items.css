@@ -10,7 +10,7 @@
   grid-gap: 19px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .footer__nav-items {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(5, min-content);
