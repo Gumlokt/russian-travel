@@ -1,4 +1,4 @@
-.places__paragraph {
+.place__paragraph {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 1023px) {
-  .places__paragraph {
+  .place__paragraph {
     font-size: 16px;
     line-height: 26px;
   }

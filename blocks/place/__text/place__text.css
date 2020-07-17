@@ -1,4 +1,4 @@
-.places__text {
+.place__text {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  .places__text {
+  .place__text {
     margin: 0 16px;
   }
 }

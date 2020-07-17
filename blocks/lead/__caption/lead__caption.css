@@ -1,6 +1,6 @@
 .lead__caption {
   box-sizing: border-box;
-  margin: 7px 0 0;
+  margin: 4px 0 0;
   padding: 0;
   align-self: flex-start;
   font-size: 10px;
@@ -11,12 +11,12 @@
 
 @media screen and (max-width: 1023px) {
   .lead__caption {
-    margin: 6px 0 0 24px;
+    margin: 3px 0 0 24px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .lead__caption {
-    margin: 8px 0 0 16px;
+    margin: 3px 0 0 16px;
   }
 }

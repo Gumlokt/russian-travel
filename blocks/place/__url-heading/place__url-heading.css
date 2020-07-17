@@ -1,4 +1,4 @@
-.places__url-heading {
+.place__url-heading {
   box-sizing: border-box;
   margin: 0 0 4px;
   padding: 0;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 1023px) {
-  .places__url-heading {
+  .place__url-heading {
     margin: 0;
   }
 }
