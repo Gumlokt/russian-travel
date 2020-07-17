@@ -1,6 +1,6 @@
 .places__text {
   box-sizing: border-box;
-  margin: -4px 0;
+  margin: 0;
   padding: 0;
   grid-area: text;
   display: grid;

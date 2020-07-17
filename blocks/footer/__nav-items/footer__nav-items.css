@@ -13,6 +13,7 @@
   .footer__nav-items {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(5, min-content);
-    grid-gap: 32px;
+    /* grid-gap: 32px; */
+    grid-gap: 31px;
   }
 }

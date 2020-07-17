@@ -12,21 +12,27 @@
 
 @media screen and (max-width: 1279px) {
   .places {
-    padding: 98px 48px 93px;
+    /* padding: 98px 48px 97px; */
+    padding: 98px 48px 91px;
+    /* grid-gap: 84px; */
     grid-gap: 87px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .places {
-    padding: 90px 24px 96px;
+    /* padding: 90px 24px 89px; */
+    padding: 90px 24px 91px;
+    /* grid-gap: 75px; */
     grid-gap: 81px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .places {
-    padding: 66px 0;
-    grid-gap: 60px;
+    /* padding: 66px 0; */
+    padding: 66px 0 68px;
+    /* grid-gap: 60px; */
+    grid-gap: 69px;
   }
 }
